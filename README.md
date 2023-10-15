@@ -1,4 +1,5 @@
 # bangunRuang
+# pascal programing language
 
 TUGAS KELAS SEMESTER 1 PEMOGRAMAN DASAR
 ---------------------------------------
